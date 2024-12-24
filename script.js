@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function loadpictures() {
     let contanier = document.getElementById("galleryid") 
 
-    let maxpics = 63
+    let maxpics = 65
     let piccount = 1
 
     while (piccount <= maxpics) {
